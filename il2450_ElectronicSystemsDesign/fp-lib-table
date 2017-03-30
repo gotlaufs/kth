@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name il2450_lab1_footprints)(type KiCad)(uri "$(KIPRJMOD)\\lib\\il2450_lab1_footprints.pretty")(options "")(descr ""))
+  (lib (name resources)(type KiCad)(uri "$(KIPRJMOD)\\resources")(options "")(descr ""))
+)

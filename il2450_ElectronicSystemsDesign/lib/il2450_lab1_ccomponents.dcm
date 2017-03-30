@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMP101NA/250
+D TMP10x Temperature Sensor With I2C and SMbus Interface with Alert Function in SOT-23 Package
+K temp; tmp; temperature; i2c; tmp10
+F Datasheets/tmp101.pdf
+$ENDCMP
+#
+#End Doc Library
